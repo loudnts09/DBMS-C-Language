@@ -12,7 +12,8 @@
  * Criar uma Nova Tupla na Tabela.
  * Listar Todos os Dados de uma Tabela.
  * Pesquisar Valor de uma Tabela.
- * Apagar uma Tupla de uma Tabela; Apagar uma Tabela.
+ * Apagar uma Tupla de uma Tabela.
+ * Apagar uma Tabela.
 
  Projeto desenvolvido na disciplina de Introdução as Técnicas de Programação. O sistema não está completo e possui erros de funcionamento em algumas opções.
 
