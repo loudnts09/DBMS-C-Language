@@ -7,7 +7,12 @@
 
  O SGBD ITP (nome dado ao SGBD simplificado) deverá ser capaz de realizar as seguintes operações:
 
- Criar Tabela; Listar Tabela; Criar uma Nova Tupla na Tabela; Listar Todos os Dados de uma Tabela; Pesquisar Valor de uma Tabela; Apagar uma Tupla de uma Tabela; Apagar uma Tabela.
+ *Criar Tabela.
+ *Listar Tabela.
+ *Criar uma Nova Tupla na Tabela.
+ *Listar Todos os Dados de uma Tabela.
+ *Pesquisar Valor de uma Tabela.
+ *Apagar uma Tupla de uma Tabela; Apagar uma Tabela.
 
  Projeto desenvolvido na disciplina de Introdução as Técnicas de Programação. O sistema não está completo e possui erros de funcionamento em algumas opções.
 
