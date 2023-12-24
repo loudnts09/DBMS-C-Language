@@ -1,0 +1,11 @@
+
+Chave primaria: id
+Valor da chave primaria: 1
+Total de colunas: 2
+Nome da coluna 1: nome
+Tipo da coluna 1: string
+Nome da coluna 2: idade
+Tipo da coluna 2: int
+
+Nome da coluna 1: nome
+Valor da coluna nome: 0
